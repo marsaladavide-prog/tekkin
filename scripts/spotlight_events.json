@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Cloonee",
+    "venue": "Space Miami",
+    "city": "Miami",
+    "country": "USA",
+    "date": "2025-10-25",
+    "url": "https://www.bandsintown.com/e/104920223-cloonee-at-space-miami",
+    "source": "manual"
+  },
+  {
+    "artist": "Cloonee",
+    "venue": "Hi Ibiza",
+    "city": "Ibiza",
+    "country": "Spain",
+    "date": "2025-11-02",
+    "url": "https://ra.co/events/1928374",
+    "source": "manual"
+  },
+  {
+    "artist": "Marco Carola",
+    "venue": "Amnesia Ibiza",
+    "city": "Ibiza",
+    "country": "Spain",
+    "date": "2025-10-28",
+    "url": "https://ra.co/events/1928110",
+    "source": "manual"
+  },
+  {
+    "artist": "Manda Moor",
+    "venue": "Defected Croatia",
+    "city": "Tisno",
+    "country": "Croatia",
+    "date": "2025-07-15",
+    "url": "https://ra.co/events/1899910",
+    "source": "manual"
+  },
+  {
+    "artist": "Joseph Capriati",
+    "venue": "DC-10",
+    "city": "Ibiza",
+    "country": "Spain",
+    "date": "2025-08-09",
+    "url": "https://ra.co/events/1902213",
+    "source": "manual"
+  },
+  {
+    "artist": "Ilario Alicante",
+    "venue": "Cocoricò",
+    "city": "Riccione",
+    "country": "Italy",
+    "date": "2025-09-21",
+    "url": "https://ra.co/events/1917549",
+    "source": "manual"
+  }
+]
