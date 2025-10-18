@@ -42,3 +42,16 @@ body{
 .nav a{color:var(--fg);text-decoration:none;opacity:.85}
 .nav a:hover{opacity:1}
 .footer{opacity:.7;font-size:.9rem;padding:28px 24px}
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(139, 92, 246, 0.6);
+  border-radius: 10px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
